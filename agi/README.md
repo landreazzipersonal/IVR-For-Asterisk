@@ -9,3 +9,7 @@ chmod +x agi/validate_cpf.py<br>
 <br>
 Path:<br>
 /var/lib/asterisk/agi-bin/validate_cpf.py<br>
+
+NOTE:<br>
+this validates only whether the CPF is mathematically valid.<br>
+It does not confirm whether the CPF exists in your database or belongs to a registered caller.<br>
