@@ -13,3 +13,5 @@ Path:<br>
 NOTE:<br>
 this validates only whether the CPF is mathematically valid.<br>
 It does not confirm whether the CPF exists in your database or belongs to a registered caller.<br>
+
+CPF is a brazilian document for citizens, you can use for any document if you adjust for your necessity
